@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "name": "Kratos",
+    "title": "Fantasma de Esparta",
+    "description": "Ex-general espartano que se tornou o deus da guerra e depois um guerreiro nórdico. Após a morte de sua esposa Faye, Kratos embarca em uma jornada com seu filho Atreus para espalhar as cinzas dela no pico mais alto dos Nove Reinos.",
+    "image": "/static/images/character_1.jpg",
+    "realm": "Midgard",
+    "weapons": [
+      "Machado Leviatã",
+      "Lâminas do Caos",
+      "Espada do Caos"
+    ],
+    "abilities": [
+      "Fúria Espartana",
+      "Força Divina",
+      "Resistência Extrema",
+      "Combate Experiente"
+    ],
+    "stats": {
+      "strength": 95,
+      "speed": 80,
+      "magic": 70,
+      "defense": 85
+    },
+    "games": [
+      "God of War (2018)",
+      "God of War Ragnarök"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Atreus",
+    "title": "Loki",
+    "description": "Filho de Kratos e Faye, com habilidades de arco e conhecimento dos deuses. Descobre que seu verdadeiro nome é Loki e que tem um destino importante nos Nove Reinos.",
+    "image": "/static/images/character_2.jpg",
+    "realm": "Midgard",
+    "weapons": [
+      "Arco Talon",
+      "Facas"
+    ],
+    "abilities": [
+      "Tiro com Arco",
+      "Linguagem dos Deuses",
+      "Transformação",
+      "Rastreamento"
+    ],
+    "stats": {
+      "strength": 60,
+      "speed": 90,
+      "magic": 85,
+      "defense": 55
+    },
+    "games": [
+      "God of War (2018)",
+      "God of War Ragnarök"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mimir",
+    "title": "O Mais Sábio dos Homens Vivos",
+    "description": "Uma cabeça decapitada que serve como conselheiro e guia. Anteriormente serviu Odin, mas agora ajuda Kratos e Atreus em sua jornada.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+    "realm": "Midgard",
+    "weapons": [
+      "Conhecimento",
+      "Histórias"
+    ],
+    "abilities": [
+      "Sabedoria",
+      "Conhecimento dos Reinos",
+      "Narração",
+      "Estratégia"
+    ],
+    "stats": {
+      "strength": 10,
+      "speed": 5,
+      "magic": 90,
+      "defense": 20
+    },
+    "games": [
+      "God of War (2018)",
+      "God of War Ragnarök"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Freya",
+    "title": "Rainha das Valquírias",
+    "description": "Ex-rainha das Valquírias e deusa Vanir. Mãe de Baldur e ex-esposa de Odin. Possui poderosas habilidades mágicas.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+    "realm": "Midgard",
+    "weapons": [
+      "Magia Vanir",
+      "Espada"
+    ],
+    "abilities": [
+      "Magia Poderosa",
+      "Voo",
+      "Cura",
+      "Transformação"
+    ],
+    "stats": {
+      "strength": 75,
+      "speed": 85,
+      "magic": 95,
+      "defense": 70
+    },
+    "games": [
+      "God of War (2018)",
+      "God of War Ragnarök"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Thor",
+    "title": "Deus do Trovão",
+    "description": "Filho de Odin e o deus mais poderoso de Asgard. Conhecido por sua força bruta e seu martelo Mjölnir.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+    "realm": "Asgard",
+    "weapons": [
+      "Mjölnir",
+      "Raio"
+    ],
+    "abilities": [
+      "Controle do Trovão",
+      "Força Sobrenatural",
+      "Voo",
+      "Resistência Divina"
+    ],
+    "stats": {
+      "strength": 100,
+      "speed": 75,
+      "magic": 80,
+      "defense": 90
+    },
+    "games": [
+      "God of War Ragnarök"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Odin",
+    "title": "Pai de Todos",
+    "description": "O rei de Asgard e líder dos Aesir. Busca conhecimento e poder acima de tudo, manipulando eventos para seus próprios fins.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+    "realm": "Asgard",
+    "weapons": [
+      "Gungnir",
+      "Magia"
+    ],
+    "abilities": [
+      "Magia Poderosa",
+      "Manipulação",
+      "Visão",
+      "Estratégia"
+    ],
+    "stats": {
+      "strength": 85,
+      "speed": 70,
+      "magic": 100,
+      "defense": 80
+    },
+    "games": [
+      "God of War Ragnarök"
+    ]
+  }
+]
