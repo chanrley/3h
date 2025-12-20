@@ -155,5 +155,3 @@ Os containers são configurados com volumes para desenvolvimento, permitindo hot
 ## 📄 Licença
 
 Este projeto é apenas para fins educacionais e de demonstração.
-
-
