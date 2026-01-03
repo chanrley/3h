@@ -427,7 +427,7 @@ nav {
 
 .clients-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(4, 1fr);
     gap: var(--spacing-md);
     margin-top: var(--spacing-lg);
 }
@@ -453,6 +453,19 @@ nav {
     align-items: center;
     gap: var(--spacing-sm);
     color: var(--gray-dark);
+}
+
+.client-logo img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translateZ(0);
+    will-change: transform;
+    filter: contrast(1.05);
 }
 
 .client-logo i {
@@ -781,6 +794,12 @@ footer {
 }
 
 /* Responsive */
+@media (max-width: 1024px) {
+    .clients-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
 @media (max-width: 768px) {
     .mobile-menu-toggle {
         display: block;
@@ -943,4 +962,9 @@ footer {
     .whatsapp-tooltip {
         display: none;
     }
+}
+img { 
+    width: 120%;
+    height: 120%;
+    
 }
